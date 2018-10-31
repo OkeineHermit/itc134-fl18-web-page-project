@@ -1,8 +1,45 @@
-<html> 
-<title> Food Shack Restaurant </title>
-<body>   
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device-width, initial-scale=1.0">
+<title>Boxes Travel Website Homepage</title>
+<link href="css/foodshack.css" type= "text/css" rel="stylesheet">
+<!--Remy Sharp Shim --> 
+<!--[if lte IE 9]> 
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript" >
+</script> 
+<![endif]-->
     
-<h1>Menu</h1>
+     </head>
+    
+    <body class="home">
+    
+<header>
+        <a href="index.html">
+<img id= "logo" src="images/aussielogo.jpg"alt="logo">
+    </a>
+<nav id="primary">
+ <ul>
+     <li><a href="index.html">HOME</a></li>
+     <li><a href="about.html">ABOUT</a></li> 
+     <li><a href="tours.html">TOURS</a></li> 
+     <li><a href="local.html">LOCAL</a></li> 
+     <li><a href="contact.html">CONTACT</a></li> 
+            
+          
+    </ul>
+    </nav>
+    </header>
+        
+<div id ="wrapper">
+    
+    
+    <div id="banner">
+    <img src="images/crater-lake.jpg" alt= "Crater Lake" >
+    </div> 
+    <main>
+        <h1>Welcome to our Website</h1><h1>Menu</h1>
  
 <h2>PIZZA: $13 EACH,  rustic, handmade, individually prepared 10" pizzas:</h3>
 
@@ -45,9 +82,46 @@ Roasted Garlic, Jalapenos, Basil, Fresh Mozzarella, Chevre, Feta</p>
 <h3>BLT $12</h3>
 <p>Bacon, Lettuce, Tomato, Toasted Sourdough </p>
  
-<h2>French Dip $12</h2>
+<h3>French Dip $12</h3>
 <p>Roast beef, Swiss cheese, baguette served with au jus</p>
-</body>
+        <ul>
+    <li>List Item 1</li>
+        <li>List Item</li>
+        <li>List Item</li>
+        <li>List Item</li>
+        <li>List Item</li>
+        </ul>
+        
+      <h2>This is my third headline</h2>   
+       
+        <p class="background"></p>
+        
+        
+        
+        
+</main>
+    <aside>
+    <h3>This is my Headline 3</h3> 
+        <figure>
+        <img src="images/aussie.jpg" alt= "doggo">
+            <figcaption>Issa Lake</figcaption>
+        </figure>
+        <p></p>
+        
+    </aside>
 <footer>
-</footer>
+<ul>
+    <li>Copyright 2018 &copy; </li>
+    <li> All Right Reserved</li>
+    <li><a href="../index.html"> Web Design by Okeine</a></li>
+            
+            
+            </ul>
+         </footer>
+        
+        
+        
+        </div><!--end banner-->
+        
+</body>
 </html>
