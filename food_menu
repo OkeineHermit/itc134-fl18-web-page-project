@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width-device-width, initial-scale=1.0">
-<title>Boxes Travel Website Homepage</title>
+<title> FoodShack Reszty</title>
 <link href="css/foodshack.css" type= "text/css" rel="stylesheet">
 <!--Remy Sharp Shim --> 
 <!--[if lte IE 9]> 
@@ -36,10 +36,10 @@
     
     
     <div id="banner">
-    <img src="images/crater-lake.jpg" alt= "Crater Lake" >
+    <img src="ADD IMAGE HERE" alt= "IMAGE TITLE" >
     </div> 
     <main>
-        <h1>Welcome to our Website</h1><h1>Menu</h1>
+        <h1>Welcome to our RESTYRAUNT</h1><h1>Menu</h1>
  
 <h2>PIZZA: $13 EACH,  rustic, handmade, individually prepared 10" pizzas:</h3>
 
@@ -84,13 +84,7 @@ Roasted Garlic, Jalapenos, Basil, Fresh Mozzarella, Chevre, Feta</p>
  
 <h3>French Dip $12</h3>
 <p>Roast beef, Swiss cheese, baguette served with au jus</p>
-        <ul>
-    <li>List Item 1</li>
-        <li>List Item</li>
-        <li>List Item</li>
-        <li>List Item</li>
-        <li>List Item</li>
-        </ul>
+        
         
       <h2>This is my third headline</h2>   
        
