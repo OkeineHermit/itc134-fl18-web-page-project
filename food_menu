@@ -1,3 +1,7 @@
+<html> 
+<title> Food Shack Restaurant </title>
+<body>   
+    
 <h1>Menu</h1>
  
 <h2>PIZZA: $13 EACH,  rustic, handmade, individually prepared 10" pizzas:</h3>
@@ -43,5 +47,7 @@ Roasted Garlic, Jalapenos, Basil, Fresh Mozzarella, Chevre, Feta</p>
  
 <h2>French Dip $12</h2>
 <p>Roast beef, Swiss cheese, baguette served with au jus</p>
-
-
+</body>
+<footer>
+</footer>
+</html>
