@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+background: #c7cbe5;
+font-size: 100%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+width:100%;
+}
+
+#wrapper{
+width:2000px;
+margin:20px auto 20px auto;
+background-color:#bfe5e8;
+}
+
+#end-wrapper{
+width:00px;
+margin:20px auto 20px auto;
+background-color:#bfe5e8;
+} 
