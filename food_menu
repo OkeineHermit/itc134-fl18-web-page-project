@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -17,7 +18,7 @@
     
 <header>
         <a href="index.html">
-<img id= "logo" src="images/aussielogo.jpg"alt="logo">
+<img id= "logo" src="images/burger-logo.jpg"alt="logo">
     </a>
 <nav id="primary">
  <ul>
